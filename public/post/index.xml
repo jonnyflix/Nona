@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Noni &amp; Joni</title>
-    <link>/post/</link>
+    <link>https://noni-und-joni.netlify.com/post/</link>
     <description>Recent content in Posts on Noni &amp; Joni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noni-und-joni.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a Standard Post</title>
-      <link>/post/work2/</link>
+      <link>https://noni-und-joni.netlify.com/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/post/work2/</guid>
+      <guid>https://noni-und-joni.netlify.com/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>New York</title>
-      <link>/post/2017-10-09-new-york/</link>
+      <link>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</link>
       <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
       
-      <guid>/post/2017-10-09-new-york/</guid>
+      <guid>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</guid>
       <description>&lt;p&gt;Dein erstes Mal in New York&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
