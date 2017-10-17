@@ -2,32 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Noni &amp; Joni</title>
-    <link>https://noni-und-joni.netlify.com/categories/design/</link>
+    <link>/categories/design/</link>
     <description>Recent content in Design on Noni &amp; Joni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://noni-und-joni.netlify.com/categories/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a Standard Post</title>
-      <link>https://noni-und-joni.netlify.com/post/work2/</link>
+      <link>/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/post/work2/</guid>
+      <guid>/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>New York</title>
-      <link>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</link>
+      <title>1. Flug</title>
+      <link>/post/2017-10-16-1-flug/</link>
       <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</guid>
+      <guid>/post/2017-10-16-1-flug/</guid>
+      <description>&lt;p&gt;Dein erster Flug in einem grooooßen Flugzeug!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Erie</title>
+      <link>/post/2017-10-16-erie-metropolitan-area/</link>
+      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      
+      <guid>/post/2017-10-16-erie-metropolitan-area/</guid>
+      <description>&lt;p&gt;The Big City Life&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mercyhurst</title>
+      <link>/post/2017-10-16-mercyhurst/</link>
+      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      
+      <guid>/post/2017-10-16-mercyhurst/</guid>
+      <description>&lt;p&gt;Zu Besuch in der besten Uni der Welt&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Rochelle</title>
+      <link>/post/2017-10-16-new-rochelle/</link>
+      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      
+      <guid>/post/2017-10-16-new-rochelle/</guid>
+      <description>&lt;p&gt;Unsere Unterkunft bei Pat&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New York</title>
+      <link>/post/2017-10-09-new-york/</link>
+      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      
+      <guid>/post/2017-10-09-new-york/</guid>
       <description>&lt;p&gt;Dein erstes Mal in New York&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

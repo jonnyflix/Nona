@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Noni &amp; Joni</title>
-    <link>https://noni-und-joni.netlify.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Noni &amp; Joni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     
-	<atom:link href="https://noni-und-joni.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design</title>
-      <link>https://noni-und-joni.netlify.com/categories/design/</link>
+      <link>/categories/design/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/categories/design/</guid>
+      <guid>/categories/design/</guid>
       <description></description>
     </item>
     
