@@ -1,5 +1,5 @@
 +++
-date = "2015-10-05T19:41:01+05:30"
+date = "2017-08-21T19:41:01+05:30"
 title = "Mercyhurst"
 draft = false
 image = "img/portfolio/MU.jpg"

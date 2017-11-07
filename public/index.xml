@@ -7,39 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="https://noni-und-joni.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>https://noni-und-joni.netlify.com/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Pittsburgh</title>
+      <link>https://noni-und-joni.netlify.com/post/2017-11-07-pittsburgh/</link>
+      <pubDate>Thu, 31 Aug 2017 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>1. Flug</title>
-      <link>https://noni-und-joni.netlify.com/post/2017-10-16-1-flug/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
-      
-      <guid>https://noni-und-joni.netlify.com/post/2017-10-16-1-flug/</guid>
-      <description>&lt;p&gt;Dein erster Flug in einem grooooßen Flugzeug!!!&lt;/p&gt;
+      <guid>https://noni-und-joni.netlify.com/post/2017-11-07-pittsburgh/</guid>
+      <description>&lt;p&gt;One night in Pittsburgh&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Erie</title>
-      <link>https://noni-und-joni.netlify.com/post/2017-10-16-erie-metropolitan-area/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      <title>Niagara Falls</title>
+      <link>https://noni-und-joni.netlify.com/post/2017-11-07-niagara-falls/</link>
+      <pubDate>Wed, 30 Aug 2017 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/post/2017-10-16-erie-metropolitan-area/</guid>
-      <description>&lt;p&gt;The Big City Life&lt;/p&gt;
+      <guid>https://noni-und-joni.netlify.com/post/2017-11-07-niagara-falls/</guid>
+      <description>&lt;p&gt;First time in Kanada!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -47,7 +37,7 @@
     <item>
       <title>Findley Lake</title>
       <link>https://noni-und-joni.netlify.com/post/2017-11-06-findley-lake/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      <pubDate>Tue, 29 Aug 2017 19:41:01 +0530</pubDate>
       
       <guid>https://noni-und-joni.netlify.com/post/2017-11-06-findley-lake/</guid>
       <description>&lt;p&gt;Ob du behindert bist, habe ich gefragt! hihihi&lt;/p&gt;
@@ -56,9 +46,20 @@
     </item>
     
     <item>
+      <title>Erie</title>
+      <link>https://noni-und-joni.netlify.com/post/2017-10-16-erie-metropolitan-area/</link>
+      <pubDate>Wed, 23 Aug 2017 19:41:01 +0530</pubDate>
+      
+      <guid>https://noni-und-joni.netlify.com/post/2017-10-16-erie-metropolitan-area/</guid>
+      <description>&lt;p&gt;The Big City Life&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Mercyhurst</title>
       <link>https://noni-und-joni.netlify.com/post/2017-10-16-mercyhurst/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      <pubDate>Mon, 21 Aug 2017 19:41:01 +0530</pubDate>
       
       <guid>https://noni-und-joni.netlify.com/post/2017-10-16-mercyhurst/</guid>
       <description>&lt;p&gt;Zu Besuch in der besten Uni der Welt&lt;/p&gt;
@@ -67,9 +68,20 @@
     </item>
     
     <item>
+      <title>New York</title>
+      <link>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</link>
+      <pubDate>Fri, 18 Aug 2017 19:41:01 +0530</pubDate>
+      
+      <guid>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</guid>
+      <description>&lt;p&gt;Dein erstes Mal in New York&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>New Rochelle</title>
       <link>https://noni-und-joni.netlify.com/post/2017-10-16-new-rochelle/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      <pubDate>Thu, 17 Aug 2017 19:41:01 +0530</pubDate>
       
       <guid>https://noni-und-joni.netlify.com/post/2017-10-16-new-rochelle/</guid>
       <description>&lt;p&gt;Unsere Unterkunft bei Pat&lt;/p&gt;
@@ -78,12 +90,12 @@
     </item>
     
     <item>
-      <title>New York</title>
-      <link>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</link>
-      <pubDate>Mon, 05 Oct 2015 19:41:01 +0530</pubDate>
+      <title>1. Flug</title>
+      <link>https://noni-und-joni.netlify.com/post/2017-10-16-1-flug/</link>
+      <pubDate>Sun, 16 Aug 2015 19:41:01 +0530</pubDate>
       
-      <guid>https://noni-und-joni.netlify.com/post/2017-10-09-new-york/</guid>
-      <description>&lt;p&gt;Dein erstes Mal in New York&lt;/p&gt;
+      <guid>https://noni-und-joni.netlify.com/post/2017-10-16-1-flug/</guid>
+      <description>&lt;p&gt;Dein erster Flug in einem grooooßen Flugzeug!!!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
