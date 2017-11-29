@@ -18,6 +18,7 @@ Ach ja & mega fertig waren wir auch, was uns aber überhaupt nicht anzusehen war
 ![Müde](/img/mude.jpg "Müde aber happy")
 
 Am nächsten morgen haben wir dann im Hotel gefrühstückt und sind entlang des Flusses zum Strip District gegangen. Das war echt nett mit den lauter kleinen Stores & diesmal ist sogar eine Mütze für mich rausgesprungen. Danach sind zu einem kleinen Markt mitten in der Innenstadt gegangen & haben dort Pierogies gegessen. Dat war nen gutes Mahl und obendrein noch von Gehörlosen zubereiten und verkauft...I like! Als letztes sind wir noch in den Park am Ende der Stadt gegangen, wo die beiden Flüsse zusammenfließen. 
+
 ![ToStrip](/img/river.jpg) ![Hat](/img/hat.jpg "USA") ![Hippie](/img/hippie.jpg "Peaceeee") 
 
 ![Burg](/img/burg.jpg) ![View](/img/view.jpg "Stadt der vielen Brücken") 
