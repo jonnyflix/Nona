@@ -21,6 +21,6 @@ Das shopping war eigentlich am besten - ich hatte soooo viel Spaß...wie man sie
 ![Fckoff](/img/fckoff.jpg "Love") ![Peace Bridge](/img/bridge.jpg "Peace Bridge")
 
 
-Die Niagara Fälle waren dann natürlich eindrucksvoll und die Promenade war auch sehr schön gestaltet. War schöni mit dir dort entlang zu schlendern und diese beeindruckende Kulisse zu genießen :) 
+Die Niagara Fälle waren dann natürlich eindrucksvoll und die Promenade war auch sehr schön gestaltet. War top mit dir dort entlang zu schlendern und diese beeindruckende Kulisse zu genießen :) 
 
 ![Traumpaar](/img/hands.jpg "Traumpaar") ![Both](/img/both.jpg "US-Links,CAN-Rechts") ![:O](/img/falls.jpg "*_*")
